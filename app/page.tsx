@@ -171,7 +171,7 @@ export default function Home() {
           </p>
           <div className="button-row centered">
             <a className="button button-primary" href="https://github.com/KritikaSapkotaa" target="_blank" rel="noreferrer"><Github /> See my GitHub</a>
-            <a className="button button-outline" href="mailto:"><Mail /> Email me</a>
+            <a className="button button-outline"><Mail />krisapkota2@gmail.com</a>
           </div>
         </div>
       </section>
