@@ -159,7 +159,7 @@ export default function Home() {
       </section>
 
       <section className="statement-band">
-        <p>Good analysis does more than report numbers — it makes the next decision clearer.</p>
+        <p>Don’t just ask what the data says. Ask why it says it, what it means, and what decision it should change.</p>
       </section>
 
       <section id="contact" className="section-band">
